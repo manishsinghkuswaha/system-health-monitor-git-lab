@@ -99,3 +99,6 @@ MIT
 
 ## Training Notes
 This project is used for the Session 9 Git lab.
+
+## Practice Run
+Run the monitor manually before scheduling it.
