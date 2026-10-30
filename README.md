@@ -102,3 +102,8 @@ This project is used for the Session 9 Git lab.
 
 ## Practice Run
 Run the monitor manually before scheduling it.
+
+## Understanding the CPU Metric
+The CPU value is the one-minute load average divided by the
+processing-unit count, multiplied by 100.
+It can exceed 100 and is not a direct CPU utilization measurement.
